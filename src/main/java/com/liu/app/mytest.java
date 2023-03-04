@@ -5,5 +5,6 @@ public class mytest {
         System.out.println("hello gitq213123");
         System.out.println("hahahaha");
         System.out.println("my is hot-fix");
+        System.out.println("hot-fix");
     }
 }

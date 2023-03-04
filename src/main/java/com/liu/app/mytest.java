@@ -6,5 +6,6 @@ public class mytest {
         System.out.println("hahahaha");
         System.out.println("my is hot-fix");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }

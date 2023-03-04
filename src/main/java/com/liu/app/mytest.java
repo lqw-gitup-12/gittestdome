@@ -7,6 +7,6 @@ public class mytest {
         System.out.println("my is hot-fix");
         System.out.println("master");
         System.out.println("hot-fix");
-        System.out.println("push");
+        System.out.println("push6666");
     }
 }
